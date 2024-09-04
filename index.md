@@ -1,19 +1,26 @@
+
 # Docs
 
-## OS
+### OS
 
 [Linux](docs/os/linux) .
 
-## CLI
+---
+
+### CLI
 
 [Bash](docs/cli/bash) .
 
-## OSS
+---
+
+### OSS
 
 [Nginx](docs/oss/nginx) .
 [Redis](docs/oss/redis) .
 
-## Package Managers
+---
+
+### Package Managers
 
 [Apt](docs/package-managers/apt) .
 [Dnf](docs/package-managers/dnf) .
