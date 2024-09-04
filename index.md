@@ -1,3 +1,3 @@
-Welcome to cheatsheet. 
+# Docs
 
-[Bash Cheatsheet](docs/bash)
+[Bash](docs/bash)
