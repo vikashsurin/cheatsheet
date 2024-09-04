@@ -25,5 +25,5 @@
 [Apt](docs/package-managers/apt) .
 [Dnf](docs/package-managers/dnf) .
 [Flatpak](docs/package-managers/flatpak) .
-[npm](docs/package-managers/npm) .
-[rpm](docs/package-managers/rpm) .
+[Npm](docs/package-managers/npm) .
+[Rpm](docs/package-managers/rpm) .
