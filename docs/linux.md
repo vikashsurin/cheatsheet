@@ -1,8 +1,6 @@
 # Linux
 
-## Basic Commands
-
-### File and Directory
+## File and Directory
 
 * `cd`: Change directory
 * `cd ~`: Go to home directory
@@ -18,7 +16,7 @@
 * `mv`: Move or rename a file
 * `mv -r`: Move or rename a directory and its contents
 
-### File Editing
+## File Editing
 
 * `touch`: Create a new empty file
 * `cat`: Display the contents of a file
@@ -28,7 +26,7 @@
 * `nano`: Edit a file with the nano editor
 * `vim`: Edit a file with the vim editor
 
-### System Information
+## System Information
 
 * `uname -a`: Display system information
 * `hostname`: Display the system hostname
@@ -36,7 +34,7 @@
 * `whoami`: Display the current user
 * `who`: Display currently logged-in users
 
-### Process Management
+## Process Management
 
 * `ps`: Display running processes
 * `ps -ef`: Display all running processes with detailed information
@@ -45,7 +43,7 @@
 * `bg`: Run a process in the background
 * `fg`: Bring a background process to the foreground
 
-### Network
+## Network
 
 * `ping`: Test network connectivity
 * `ssh`: Connect to a remote system via SSH
@@ -53,20 +51,20 @@
 * `wget`: Download a file from the internet
 * `curl`: Transfer data to or from a web server
 
-### Package Mangement
+## Package Mangement
 
 * `apt-get`: Package manager for Debian-based systems
 * `yum`: Package manager for RPM-based systems
 * `pip`: Manage Python packages
 
-### Security
+## Security
 
 * `sudo`: Run a command with superuser privileges
 * `chmod`: Change file permissions
 * `chown`: Change file ownership
 * `ssh-keygen`: Generate SSH keys
 
-### System Administration
+## System Administration
 
 * `useradd`: Add a new user
 * `userdel`: Delete a user
@@ -74,7 +72,7 @@
 * `groupdel`: Delete a group
 * `passwd`: Change user passwords
 
-### File System
+## File System
 
 * `df`: Display disk usage
 * `du`: Display directory usage
