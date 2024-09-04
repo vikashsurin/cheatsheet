@@ -1,3 +1,3 @@
 Welcome to cheatsheet. 
 
-[Bash Cheatsheet](cheatsheet/bash)
+[Bash Cheatsheet](docs/bash)
