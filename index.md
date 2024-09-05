@@ -17,6 +17,7 @@
 
 [Nginx](docs/oss/nginx) .
 [Redis](docs/oss/redis) .
+[Pm2](docs/oss/pm2) .
 
 ---
 
