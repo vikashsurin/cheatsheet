@@ -28,3 +28,7 @@
 [Flatpak](docs/package-managers/flatpak) .
 [Npm](docs/package-managers/npm) .
 [Rpm](docs/package-managers/rpm) .
+
+### Editor
+
+[Vim](docs/editor/vim) .
